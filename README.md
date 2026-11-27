@@ -65,9 +65,6 @@ whoami:
 
 | Project | What It Is | Stack |
 |---|---|---|
-| [Day-01-github-actions-keysmethod-infra-create](https://github.com/manojkumarsahoo-dev/Day-01-github-actions-keysmethod-infra-create) | Infrastructure creation driven by a GitHub Actions workflow (access-keys method) | GitHub Actions, Terraform |
-| [Terraform-practice](https://github.com/manojkumarsahoo-dev/Terraform-practice) | Hands-on Terraform practice | Terraform (HCL) |
-| [portfolio](https://github.com/manojkumarsahoo-dev/portfolio) | My personal portfolio site | HTML |
 | Kubernetes e-commerce microservices (EKS → AKS) | Converting an AWS EKS microservices app to Azure AKS and related Azure services | Kubernetes, AWS EKS, Azure AKS |
 | Observability & incident response lab | Capstone: metrics, dashboards, alert routing and on-call paging | Prometheus, Grafana, Alertmanager, Slack, PagerDuty |
 
