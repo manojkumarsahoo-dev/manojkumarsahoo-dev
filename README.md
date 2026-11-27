@@ -10,8 +10,7 @@ MCA graduate building hands-on skills in **AWS, Azure and GCP**, infrastructure 
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-manojkumarsahoo--dev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manojkumarsahoo-dev)
 [![Email](https://img.shields.io/badge/EMAIL-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kumarsahoomanoj078@gmail.com)
-[![Medium](https://img.shields.io/badge/MEDIUM-Read%20my%20blogs-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@kumarsahoomanoj078)
-![Profile views](https://komarev.com/ghpvc/?username=manojkumarsahoo-dev&label=PROFILE+VIEWS&style=for-the-badge&color=0e75b6)
+[![Medium](https://img.shields.io/badge/MEDIUM-Follow%20me-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@kumarsahoomanoj078)![Profile views](https://komarev.com/ghpvc/?username=manojkumarsahoo-dev&label=PROFILE+VIEWS&style=for-the-badge&color=0e75b6)
 
 </div>
 
